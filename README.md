@@ -1,4 +1,3 @@
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm1kMmxqc2dsbzI1Y2x0ZnplM2UxcmRqc3A0c244cGsyZWtwYzFmdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XOijEXIPqGCC4M1w1F/giphy.gif" width="150" />
 
 # Hi 👋, I'm Leo Li
 
